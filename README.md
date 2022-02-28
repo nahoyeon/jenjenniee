@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</a>
+<a href="www.instagram.com/jjjj__i_/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-9cf?style=flat&logo=Instagram&link=https://www.instagram.com/jjjj__i_"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=www.instagram.com/jjjj__i_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
