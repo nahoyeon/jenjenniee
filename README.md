@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/jjjj__i_"" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-E4405F?style=뱃지모양&logo=로고&logoColor=white"/></a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenjenniee&theme=vue&show_icons=true)
