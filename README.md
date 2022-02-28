@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://instagram.com/jjjj__i_">
     <img 
-        src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/""
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/""
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
