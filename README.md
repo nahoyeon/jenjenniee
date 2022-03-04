@@ -13,11 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenjenniee&theme=vue&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenjenniee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<table style="border: none">
     <tr>
         <td valign="top" width="50%" style="border: none">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenjenniee&show_icons=true&locale=en&layout=compact&theme=vue" alt="jenjenniee" />
