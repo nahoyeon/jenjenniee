@@ -16,5 +16,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenjenniee&theme=vue&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-// ?username=jenjenniee
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenjenniee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
