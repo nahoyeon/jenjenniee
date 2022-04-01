@@ -1,6 +1,6 @@
 ### Hi 👋, It's me!😀
 
-- 🔭 I’m currently working on ...  junior in college!!!🏫
+- 🔭 I’m currently working on ...  I'm a junior in college 😉🖥️
 - 🌱 I’m currently learning ...   IOT, SPRING 
 - 📫 How to reach me: ... leen013159@gmail.com
 
