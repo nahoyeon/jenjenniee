@@ -1,7 +1,7 @@
 ### Hi 👋, It's me!😀
 
 - 🔭 I’m currently working on ...  I'm a junior in college 😉🖥️
-- 🌱 I’m currently learning ...   IOT, SPRING, ORACLE
+- 🌱 I’m currently learning ...   IOT, REACT, ORACLE
 - 📫 How to reach me: ... leen013159@gmail.com
 
 
